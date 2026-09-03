@@ -8,6 +8,7 @@ Your mission is to build an **attractive & Ecommerce Landing Page** for:  🍃 *
 ---
 
 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐒𝐭𝐞𝐜𝐤: HTML,Tailwind CSS
+-----
 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬:Services,Popular Products,Arrival &Offers,Contacts
 
 ---
